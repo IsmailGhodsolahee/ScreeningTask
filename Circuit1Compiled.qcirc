@@ -1,0 +1,25 @@
+Rzt (0.5*pi) 1
+Rxt (0.5*pi) 1
+Rzt (0.5*pi) 1
+Rzt (0.5*pi) 2
+Rxt (pi) 2
+Rzt (0.5*pi) 2
+Rzt (1.5*pi) 3
+Rxt (pi) 3
+Rzt (0.5*pi) 3
+Rzt (0.5*pi) 4
+Rzt (pi) 4
+Rzt (1.5*pi) 4
+Rzt (0) 5
+Rzt (pi)  1 
+Rxt (pi)  1 
+Rxt (2*pi) 3
+Rzt (0.5*pi) 5
+Rzt (0.5*pi) 1
+Rxt (0.5*pi) 1
+Rzt (0.5*pi) 1
+c-z 1,2
+Rzt (0.5*pi) 1
+Rxt (0.5*pi) 1
+Rzt (0.5*pi) 1
+c-z 2,3

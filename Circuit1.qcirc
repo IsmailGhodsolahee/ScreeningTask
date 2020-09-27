@@ -1,0 +1,11 @@
+gates 10		#Number of Gates
+h 1				#Hadamard on qubit 1
+x 2				#X on qubit 2
+y 3				#Y on qubit 3
+z 4				#Z on qubit 4
+i 5				#I on qubit 5
+Ryt (pi) 1 	#RY(pi/2) on qubit 1
+Rxt (2*pi) 3		#RX on qubit 3
+Rzt (0.5*pi) 5		#RZ on qubit 5
+cnot 1,2		#Cnot on qubits 1,2
+c-z 2,3			#c-z on qubits 2,3
